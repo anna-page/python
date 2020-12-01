@@ -1,2 +1,2 @@
-    def deepseafish():
-        return "bluop bluop bluop"
+def deepseafish():
+    return "bluop bluop bluop"
